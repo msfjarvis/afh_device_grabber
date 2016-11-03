@@ -13,9 +13,11 @@ list_devices=[]
 i=1
 
 while i <= 9:
+  print "pass {0} of {1}".format(str(i),str(PAGE_COUNT))
   payload={'action':'devices','limit':'100','page':i}
   r = requests.get(AFH_API_ENDPOINT, params=payload)
   list_devices.extend(r.json()['DATA'])
+  print "Currently synced down {0} devices!".format(str(len(list_devices)))
   i+=1
 
 json.dump(list_devices,_f,indent=2)
