@@ -1017,21 +1017,21 @@
     "manufacturer": "Google"
   }, 
   {
-    "did": "1390", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Nexus 5X", 
-    "device_model": "H790", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1390", 
-    "device_carrier": "Unlocked", 
-    "manufacturer": "Google"
-  }, 
-  {
     "did": "551", 
     "image": "http://www.androidfilehost.com/images/devices/551-Nexus-5X.jpg", 
     "device_name": "Nexus 5X", 
     "device_model": "", 
     "url": "http://www.androidfilehost.com/?w=developers&did=551", 
     "device_carrier": "", 
+    "manufacturer": "Google"
+  }, 
+  {
+    "did": "1390", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Nexus 5X", 
+    "device_model": "H790", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1390", 
+    "device_carrier": "Unlocked", 
     "manufacturer": "Google"
   }, 
   {
@@ -1221,6 +1221,15 @@
     "device_model": "", 
     "url": "http://www.androidfilehost.com/?w=developers&did=495", 
     "device_carrier": "", 
+    "manufacturer": "HTC"
+  }, 
+  {
+    "did": "1715", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Bolt", 
+    "device_model": "2PYB20000", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1715", 
+    "device_carrier": "Sprint", 
     "manufacturer": "HTC"
   }, 
   {
@@ -1517,6 +1526,15 @@
     "device_name": "HTC 816G dual sim (mt6592)", 
     "device_model": "HTC 816G dual sim (mt6592)", 
     "url": "http://www.androidfilehost.com/?w=developers&did=1003", 
+    "device_carrier": "", 
+    "manufacturer": "HTC"
+  }, 
+  {
+    "did": "1727", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "HTC Desire 526G Plus", 
+    "device_model": "Desire 526g plus Dual Sim", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1727", 
     "device_carrier": "", 
     "manufacturer": "HTC"
   }, 
@@ -1953,20 +1971,20 @@
     "manufacturer": "huawei"
   }, 
   {
-    "did": "1148", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Honor 5C", 
-    "device_model": "NEM-L22", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1148", 
-    "device_carrier": "", 
-    "manufacturer": "Huawei"
-  }, 
-  {
     "did": "1155", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "Honor 5C", 
     "device_model": "NEM-L22", 
     "url": "http://www.androidfilehost.com/?w=developers&did=1155", 
+    "device_carrier": "", 
+    "manufacturer": "Huawei"
+  }, 
+  {
+    "did": "1148", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Honor 5C", 
+    "device_model": "NEM-L22", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1148", 
     "device_carrier": "", 
     "manufacturer": "Huawei"
   }, 
@@ -2142,20 +2160,20 @@
     "manufacturer": "iNew"
   }, 
   {
-    "did": "1334", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "HOT2", 
-    "device_model": "X510", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1334", 
-    "device_carrier": "", 
-    "manufacturer": "Infinix"
-  }, 
-  {
     "did": "889", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "Hot2", 
     "device_model": "X510", 
     "url": "http://www.androidfilehost.com/?w=developers&did=889", 
+    "device_carrier": "", 
+    "manufacturer": "Infinix"
+  }, 
+  {
+    "did": "1334", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "HOT2", 
+    "device_model": "X510", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1334", 
     "device_carrier": "", 
     "manufacturer": "Infinix"
   }, 
@@ -2241,20 +2259,20 @@
     "manufacturer": "Karbonn"
   }, 
   {
-    "did": "481", 
-    "image": "http://www.androidfilehost.com/images/devices/481-Sparkle-V.png", 
-    "device_name": "Sparkle V", 
-    "device_model": "", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=481", 
-    "device_carrier": "", 
-    "manufacturer": "Karbonn"
-  }, 
-  {
     "did": "371", 
     "image": "http://www.androidfilehost.com/images/devices/371-Sparkle-V.jpg", 
     "device_name": "Sparkle V", 
     "device_model": "", 
     "url": "http://www.androidfilehost.com/?w=developers&did=371", 
+    "device_carrier": "", 
+    "manufacturer": "Karbonn"
+  }, 
+  {
+    "did": "481", 
+    "image": "http://www.androidfilehost.com/images/devices/481-Sparkle-V.png", 
+    "device_name": "Sparkle V", 
+    "device_model": "", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=481", 
     "device_carrier": "", 
     "manufacturer": "Karbonn"
   }, 
@@ -2401,6 +2419,15 @@
     "url": "http://www.androidfilehost.com/?w=developers&did=1531", 
     "device_carrier": "", 
     "manufacturer": "LENOVO"
+  }, 
+  {
+    "did": "1717", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Lenovo Tab A7-30", 
+    "device_model": "A3300", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1717", 
+    "device_carrier": "", 
+    "manufacturer": "Lenovo"
   }, 
   {
     "did": "1383", 
@@ -2754,21 +2781,21 @@
     "manufacturer": "LG"
   }, 
   {
-    "did": "1256", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "G2", 
-    "device_model": "D802", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1256", 
-    "device_carrier": "open", 
-    "manufacturer": "LG"
-  }, 
-  {
     "did": "272", 
     "image": "http://www.androidfilehost.com/images/devices/272_G2.jpg", 
     "device_name": "G2", 
     "device_model": "", 
     "url": "http://www.androidfilehost.com/?w=developers&did=272", 
     "device_carrier": "", 
+    "manufacturer": "LG"
+  }, 
+  {
+    "did": "1256", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "G2", 
+    "device_model": "D802", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1256", 
+    "device_carrier": "open", 
     "manufacturer": "LG"
   }, 
   {
@@ -3717,6 +3744,15 @@
     "manufacturer": "Motorola"
   }, 
   {
+    "did": "1730", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Moto E 2nd generation", 
+    "device_model": "Otus", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1730", 
+    "device_carrier": "", 
+    "manufacturer": "Motorola"
+  }, 
+  {
     "did": "306", 
     "image": "http://www.androidfilehost.com/images/devices/306_Moto_G.jpg", 
     "device_name": "Moto G", 
@@ -3825,15 +3861,6 @@
     "manufacturer": "Motorola"
   }, 
   {
-    "did": "1587", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Moto Z", 
-    "device_model": "XT1650-05", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1587", 
-    "device_carrier": "China Unicom", 
-    "manufacturer": "MOTOROLA"
-  }, 
-  {
     "did": "950", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "Moto Z", 
@@ -3841,6 +3868,15 @@
     "url": "http://www.androidfilehost.com/?w=developers&did=950", 
     "device_carrier": "Verizon", 
     "manufacturer": "Motorola"
+  }, 
+  {
+    "did": "1587", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Moto Z", 
+    "device_model": "XT1650-05", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1587", 
+    "device_carrier": "China Unicom", 
+    "manufacturer": "MOTOROLA"
   }, 
   {
     "did": "38", 
@@ -4401,21 +4437,21 @@
     "manufacturer": "Samsung"
   }, 
   {
-    "did": "1474", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Galaxy", 
-    "device_model": "s4", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1474", 
-    "device_carrier": "", 
-    "manufacturer": "Samsung"
-  }, 
-  {
     "did": "634", 
     "image": "http://www.androidfilehost.com/images/devices/1459772686-6393.png", 
     "device_name": "Galaxy", 
     "device_model": "J5", 
     "url": "http://www.androidfilehost.com/?w=developers&did=634", 
     "device_carrier": "Various", 
+    "manufacturer": "Samsung"
+  }, 
+  {
+    "did": "1474", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Galaxy", 
+    "device_model": "s4", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1474", 
+    "device_carrier": "", 
     "manufacturer": "Samsung"
   }, 
   {
@@ -4491,13 +4527,13 @@
     "manufacturer": "Samsung"
   }, 
   {
-    "did": "1347", 
+    "did": "653", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "galaxy ace 4", 
-    "device_model": "SM-G316HU", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1347", 
+    "device_model": "SM-G313", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=653", 
     "device_carrier": "", 
-    "manufacturer": "samsung"
+    "manufacturer": "Samsung"
   }, 
   {
     "did": "1347", 
@@ -4770,20 +4806,20 @@
     "manufacturer": "Samsung"
   }, 
   {
-    "did": "126", 
-    "image": "http://www.androidfilehost.com/images/devices/126_Galaxy_Mini.jpg", 
-    "device_name": "Galaxy Mini", 
-    "device_model": "", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=126", 
-    "device_carrier": "", 
-    "manufacturer": "Samsung"
-  }, 
-  {
     "did": "117", 
     "image": "http://www.androidfilehost.com/images/devices/117_Galaxy_Mini.jpg", 
     "device_name": "Galaxy Mini", 
     "device_model": "S5570", 
     "url": "http://www.androidfilehost.com/?w=developers&did=117", 
+    "device_carrier": "", 
+    "manufacturer": "Samsung"
+  }, 
+  {
+    "did": "126", 
+    "image": "http://www.androidfilehost.com/images/devices/126_Galaxy_Mini.jpg", 
+    "device_name": "Galaxy Mini", 
+    "device_model": "", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=126", 
     "device_carrier": "", 
     "manufacturer": "Samsung"
   }, 
@@ -4896,6 +4932,15 @@
     "manufacturer": "Samsung"
   }, 
   {
+    "did": "1501", 
+    "image": "http://www.androidfilehost.com/images/devices/1473427408-988.jpg", 
+    "device_name": "Galaxy Note 7", 
+    "device_model": "SM-N930F", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1501", 
+    "device_carrier": "", 
+    "manufacturer": "Samsung"
+  }, 
+  {
     "did": "1325", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "Galaxy Note 7", 
@@ -4911,15 +4956,6 @@
     "device_model": "SM-N930T", 
     "url": "http://www.androidfilehost.com/?w=developers&did=1327", 
     "device_carrier": "T-Mobile", 
-    "manufacturer": "Samsung"
-  }, 
-  {
-    "did": "1501", 
-    "image": "http://www.androidfilehost.com/images/devices/1473427408-988.jpg", 
-    "device_name": "Galaxy Note 7", 
-    "device_model": "SM-N930F", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1501", 
-    "device_carrier": "", 
     "manufacturer": "Samsung"
   }, 
   {
@@ -5193,20 +5229,20 @@
     "manufacturer": "Samsung"
   }, 
   {
-    "did": "167", 
-    "image": "http://www.androidfilehost.com/images/devices/167_Galaxy_S_4.jpg", 
-    "device_name": "Galaxy S4", 
-    "device_model": "", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=167", 
-    "device_carrier": "", 
-    "manufacturer": "Samsung"
-  }, 
-  {
     "did": "1110", 
     "image": "http://www.androidfilehost.com/images/devices/", 
     "device_name": "Galaxy S4", 
     "device_model": "i9500", 
     "url": "http://www.androidfilehost.com/?w=developers&did=1110", 
+    "device_carrier": "", 
+    "manufacturer": "Samsung"
+  }, 
+  {
+    "did": "167", 
+    "image": "http://www.androidfilehost.com/images/devices/167_Galaxy_S_4.jpg", 
+    "device_name": "Galaxy S4", 
+    "device_model": "", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=167", 
     "device_carrier": "", 
     "manufacturer": "Samsung"
   }, 
@@ -5238,6 +5274,15 @@
     "manufacturer": "Samsung"
   }, 
   {
+    "did": "1418", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Galaxy S5", 
+    "device_model": "SM-G900F", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=1418", 
+    "device_carrier": "", 
+    "manufacturer": "Samsung"
+  }, 
+  {
     "did": "325", 
     "image": "http://www.androidfilehost.com/images/devices/325_Galaxy_S5.jpg", 
     "device_name": "Galaxy S5", 
@@ -5252,15 +5297,6 @@
     "device_name": "Galaxy S5", 
     "device_model": "G900H", 
     "url": "http://www.androidfilehost.com/?w=developers&did=1159", 
-    "device_carrier": "", 
-    "manufacturer": "Samsung"
-  }, 
-  {
-    "did": "1418", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Galaxy S5", 
-    "device_model": "SM-G900F", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=1418", 
     "device_carrier": "", 
     "manufacturer": "Samsung"
   }, 
@@ -6372,20 +6408,20 @@
     "manufacturer": "Sony Ericsson"
   }, 
   {
-    "did": "370", 
-    "image": "http://www.androidfilehost.com/images/devices/", 
-    "device_name": "Dream Uno", 
-    "device_model": "", 
-    "url": "http://www.androidfilehost.com/?w=developers&did=370", 
-    "device_carrier": "", 
-    "manufacturer": "Spice"
-  }, 
-  {
     "did": "480", 
     "image": "http://www.androidfilehost.com/images/devices/480-Dream-Uno.jpg", 
     "device_name": "Dream Uno", 
     "device_model": "", 
     "url": "http://www.androidfilehost.com/?w=developers&did=480", 
+    "device_carrier": "", 
+    "manufacturer": "Spice"
+  }, 
+  {
+    "did": "370", 
+    "image": "http://www.androidfilehost.com/images/devices/", 
+    "device_name": "Dream Uno", 
+    "device_model": "", 
+    "url": "http://www.androidfilehost.com/?w=developers&did=370", 
     "device_carrier": "", 
     "manufacturer": "Spice"
   }, 
