@@ -3,6 +3,7 @@ import json
 import requests
 import cfscrape
 import time
+import os
 
 AFH_API_ENDPOINT = "https://androidfilehost.com/api/"
 MAX_RETRIES = 5
@@ -106,5 +107,7 @@ def get_developers():
 count_pages()
 if page_count >= 1:
     get_devices()
-    get_developers()
+    is_travis = 'TRAVIS' in os.environ
+    if not is_travis:
+        get_developers()
 print errors
