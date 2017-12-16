@@ -9,7 +9,9 @@ MAX_RETRIES = 5
 
 page_count = 0
 errors = ""
-_f=open('devices.json','w')
+if not os.path.exists('./devices/'):
+    os.makedirs('./devices/')
+_f=open('./devices/devices.json','w')
 list_devices=[]
 
 def count_pages():
@@ -156,7 +158,9 @@ def get_developers():
             continue
         print "Fetching developers for device {0} {1}".format(i['manufacturer'], i['device_name'])
         devs = fetch_devs(i['did'])
-        _f = open(i['did'], 'w')
+        if not os.path.exists('./developers/'):
+            os.makedirs('./developers/')
+        _f = open('./developers/' +i['did'], 'w')
         json.dump(devs,_f,indent=2)
 
 count_pages()
